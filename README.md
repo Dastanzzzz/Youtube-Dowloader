@@ -58,3 +58,7 @@ Output executable:
 - If you paste a playlist URL, the app uses the first entry.
 - Available quality options depend on what YouTube provides for that specific video.
 - Download history is saved in `download_history.json` beside the app.
+
+
+<img width="1219" height="818" alt="{B64735C3-67A6-48A7-AE8D-BB8BA05BF496}" src="https://github.com/user-attachments/assets/408b0583-ff00-4b2f-ac56-bde904acec72" />
+
